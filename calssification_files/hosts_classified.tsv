@@ -1,0 +1,109 @@
+cystic fibrosis (cf) patients	H
+homo sapiens	H
+homo sapiens sapiens	H
+humen being	H
+male	H
+severely burned patient	H
+agaricus bisporus	EN
+aglaonema	EN
+atriplex portulacoides	EN
+bacteria    O
+black rice	EN
+camellia sinensis	EN
+cicer arietinum	EN
+cotton	EN
+degraded seaweed	EN
+environment	EN
+environmental	EN
+morus alba	EN
+nicotiana tabacum	EN
+oryza sativa indica rpbio 226	EN
+photinia glabra	EN
+plant:tobacco plant	EN
+plantae	EN
+potato	EN
+rice	EN
+rhizosphere of helianthus annuus	EN
+soil	EN
+solanum lycopersicum	EN
+sugarcane	EN
+tobacco	EN
+water	EN
+activated sludge	EB
+p-trap	EB
+u-bend	EB
+wastewater	EB
+astronotus ocellatus	O
+bacteria	O
+bos indicus	O
+bos taurus	O
+bos taurus indicus	O
+bovine	O
+canine	O
+canis	O
+canis lupus	O
+canis lupus familiaris	O
+capra hircus	O
+cat	O
+cattle	O
+cervus elaphus	O
+chicken	O
+chinese chive	O
+cow	O
+coyote	O
+delphinidae	O
+dog	O
+dolphin	O
+elephant	O
+equidae	O
+equus	O
+equus asinus	O
+felidae	O
+feline	O
+felis catus	O
+fly	O
+forest musk deer	O
+gallus gallus	O
+holotrichia oblita	O
+holstein cow	O
+leporidae	O
+macrobrachium rosenbergii	O
+macropus	O
+magellanic penguin	O
+mink	O
+mouse	O
+mus musculus cf-1	O
+musca domestica	O
+nematode	O
+oreochromis niloticus (nile tilapia)	O
+pelodiscus sinensis	O
+phalangeriformes	O
+phascolarctos cinereus	O
+physignathus cocincinus	O
+pinnipedia	O
+plant	O
+psittaciformes	O
+pseudomonas	O
+reptilia	O
+sus scrofa domesticus	O
+sus scrofa cristatus	O
+swallow	O
+testudines	O
+tetradesmus dimorphus	O
+tursiops truncatus (bottlenose dolphin)	O
+zea mays	O
+zophobas morio	O
+missing	U
+n/a	U
+na	U
+NA	U
+nist mixed microbial rm strain	U
+none	U
+not applicable	U
+not available	U
+not available: not collected	U
+not collected	U
+unknown	U
+ww outflow samariterstift	U
+wwtp inflow	U
+zymobiomics microbial community standard strain	U

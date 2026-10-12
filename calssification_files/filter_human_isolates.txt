@@ -1,0 +1,23 @@
+human
+homo sapiens
+male
+female
+man
+woman
+patient
+###
+wound
+swab
+urin
+infection
+ulcer
+trache
+lung
+tissue
+throat
+sputum
+stool
+bronch
+cystic fibrosis
+cf
+blood
