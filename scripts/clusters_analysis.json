@@ -1,0 +1,13 @@
+{
+    "stat_test_pairs": {
+        "H_EN": ["H", "EN", "tot_H", "tot_EN"],
+        "H_EB": ["H", "EB", "tot_H", "tot_EB"],
+        "H_O": ["H", "O", "tot_H", "tot_O"]
+    },
+
+    "experiments": {
+        "H_EN": ["H_EN_H", "H_EN_EN"],
+        "H_EB": ["H_EB_H", "H_EB_EB"],
+        "H_O": ["H_O_H", "H_O_O"]
+    }
+}
